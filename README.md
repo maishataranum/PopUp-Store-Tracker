@@ -17,6 +17,7 @@ The program will display a menu with eight options:
 7. Get store hours of an item
 8. Exit
 To choose an option, enter the corresponding number (1-8).
+
 If you choose option 1, the program will summarize all the data in the shop list and display the area with the most stores, the date with the most shops open, and the most common store type.
 If you choose option 2, the program will prompt you to enter an area. Enter the name of the area (“downtown” or “outletmall”), and the program will display the number of pop-up shops opened in that area.
 If you choose option 3, the program will prompt you to enter a date in the format YYYY-MM-DD. Enter a date, and the program will display the number of shops that are open on that date.
